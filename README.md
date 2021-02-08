@@ -4,7 +4,7 @@ Get perfect shadows for images
 
 # Installation
 
-`npm install shadowDemo --save`
+`npm install sharecodedemo --save`
 
 ```
 import { shadowDemo } from 'shadowDemo';
